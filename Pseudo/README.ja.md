@@ -1,6 +1,6 @@
 # Pseudo
 
-Read this in other languages: [English](README.md), [日本語](Pseudo/README.ja.md)
+Read this in other languages: [English](README.md), [日本語](README.ja.md)
 
 * サンプルプログラムと接続してデータを送信するためのSiTCP疑似デバイス(Python)です。
 	* 実行には[sitcpyライブラリ](https://github.com/BeeBeansTechnologies/sitcpy)が必要です。
