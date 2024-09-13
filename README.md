@@ -142,7 +142,7 @@ The current API internal state can be obtained with `SiDaqGetStatus`.
 * Arguments
 	* Pointer to target manager struct
 	* Pointer to  data length
-	* wait_msec Positive: wait for specified (millisecondes). Negative:wait until data is obtained. 
+	* wait_msec Positive: wait for specified (milliseconds). Negative: wait until data is obtained. 
 * Return value
 	* Pointer to data
 * Remarks
@@ -189,7 +189,7 @@ The current API internal state can be obtained with `SiDaqGetStatus`.
 * Argument
 	* Pointer to target manager struct
 * Return value
-	* Current anager status
+	* Current manager status
 * Remarks
 	* Enumeration type `SiDaqStatus`.
 
@@ -282,7 +282,7 @@ A sample program is available that uses this API to connect to a SiTCP device an
 	* Enter parameters about the SiTCP device to be connected.
 * Connect/Disconnect button
 	* Executes connect/disconnect to the SiTCP device.
-* Connection is cheked by UDP Communication.
+* Connection is checked by UDP Communication.
 * `SiDaqInitialize/SiDaqTerminate` is executed.
 * Event Frame Header Length input field
 	* Enter the header byte length when executing a Run in (Run Mode: Header).
@@ -333,7 +333,7 @@ A sample program is available that uses this API to connect to a SiTCP device an
 * Save File checkbox
 	* If checked, the received data is saved to a file.
 		* Data receive processing is paused while writing to a file.
-		* `SiDaqPauseRecvData,SiDaqResumeRecvData` are executed.
+		* `SiDaqPauseRecvData, SiDaqResumeRecvData` are executed.
 * File path display field
 	* Displays the directory path where the received data write file is saved.
 * Browse button

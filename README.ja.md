@@ -85,7 +85,7 @@ WindowsアプリケーションでSiTCPデバイスと通信を行うためのAP
 	* 接続テストとして、UDP通信でSiTCPの内部レジスタを読み取ります。
 
 ### SiDaqTerminate
-* `SiDaqInitialize`で作成されたマネージャを解放します
+* `SiDaqInitialize`で作成されたマネージャーを解放します
 * 引数
 	* 対象のマネージャー構造体ポインタ
 * 戻り値
@@ -125,7 +125,7 @@ WindowsアプリケーションでSiTCPデバイスと通信を行うためのAP
 	* 最大フレーム長
 		* 最大フレーム長を指定できます。(既定値：262144) (単位：byte)
 * 戻り値
-	* マネージャのステータス
+	* マネージャーのステータス
 * 備考
 
 ### SiDaqStop
@@ -335,7 +335,7 @@ WindowsアプリケーションでSiTCPデバイスと通信を行うためのAP
 * Save Fileチェックボックス
 	* チェックしている場合、受信データをファイルに保存します。
 		* ファイル書き込み中はデータ受信を一時停止します。
-		* `SiDaqPauseRecvData,SiDaqResumeRecvData`が実行されます。
+		* `SiDaqPauseRecvData, SiDaqResumeRecvData`が実行されます。
 * ファイルパス表示欄
 	* 受信データ書き込みファイルを保存するディレクトリパスが表示されます。
 * Browseボタン

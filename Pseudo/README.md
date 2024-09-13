@@ -21,7 +21,7 @@ pip install sitcpy
 python .\SiDaqPseudo.py
 ```
 
-* Option --port : You can specify the TCP port number. (Default: 24242)
+* Option --port: You can specify the TCP port number. (Default: 24242)
 * Option --header: You can specify the byte length of the header to be added to the data to be sent. (Default: 2)
 	* The header stores the byte length of the data frame to be sent.
 	* If the data frame length does not fit the specified header length, the header will not be added.
@@ -37,4 +37,4 @@ python .\SiDaqPseudo.py
 python .\SiDaqPseudo.py --port 24 --header 0 --unit 1
 ```
 
-* The pseudo program starts with TCP port number 24, no data length header, and data frame length : 1 * 8 = 8 bytes.
+* The pseudo program starts with TCP port number 24, no data length header, and data frame length: 1 * 8 = 8 bytes.
