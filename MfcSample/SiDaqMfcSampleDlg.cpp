@@ -1,6 +1,14 @@
-﻿
-// SiDaqMfcSampleDlg.cpp : implementation file
+﻿//
+// SiDaqMfcSampleDlg.cpp
+// ~~~~~~~~~~~~~~  
+// 
+// Copyright (C) 2024  Bee Beans Technologies Co.,Ltd.
 //
+// Released under the MIT License.
+// (See accompanying file LICENSE)
+//
+
+// implementation file
 
 #include "pch.h"
 #include "framework.h"

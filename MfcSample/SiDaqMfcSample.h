@@ -1,6 +1,14 @@
-﻿
-// SiDaqMfcSample.h : main header file for the PROJECT_NAME application
+﻿//
+// SiDaqMfcSample.h
+// ~~~~~~~~~~~~~~  
+// 
+// Copyright (C) 2024  Bee Beans Technologies Co.,Ltd.
 //
+// Released under the MIT License.
+// (See accompanying file LICENSE)
+//
+
+// main header file for the PROJECT_NAME application
 
 #pragma once
 

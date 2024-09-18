@@ -5,9 +5,8 @@
 // Copyright (C) 2019  Bee Beans Technologies Co.,Ltd.
 //
 // Released under the MIT License.
-// (See accompanying file License.txt)
+// (See accompanying file LICENSE)
 //
-
 #include "pch.h"
 #include <string>
 #include <vector>

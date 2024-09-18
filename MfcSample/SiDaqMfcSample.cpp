@@ -1,6 +1,14 @@
-﻿
-// SiDaqMfcSample.cpp : Defines the class behaviors for the application.
+﻿//
+// SiDaqMfcSample.cpp
+// ~~~~~~~~~~~~~~  
+// 
+// Copyright (C) 2024  Bee Beans Technologies Co.,Ltd.
 //
+// Released under the MIT License.
+// (See accompanying file LICENSE)
+//
+
+// Defines the class behaviors for the application.
 
 #include "pch.h"
 #include "framework.h"

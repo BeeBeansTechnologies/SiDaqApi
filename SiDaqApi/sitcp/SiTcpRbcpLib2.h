@@ -5,7 +5,7 @@
 // Copyright (C) 2019  Bee Beans Technologies Co.,Ltd.
 //
 // Released under the MIT License.
-// (See accompanying file License.txt)
+// (See accompanying file LICENSE)
 //
 #ifndef _SITCPRBCPLIB_H_
 #define _SITCPRBCPLIB_H_

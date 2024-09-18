@@ -1,3 +1,12 @@
+//
+// sidaq_framer.h
+// ~~~~~~~~~~~~~~  
+//
+// Copyright (C) 2024  Bee Beans Technologies Co.,Ltd.
+//
+// Released under the MIT License.
+// (See accompanying file LICENSE)
+//
 #ifndef _SIDAQ_FRAMER_H_
 #define _SIDAQ_FRAMER_H_
 

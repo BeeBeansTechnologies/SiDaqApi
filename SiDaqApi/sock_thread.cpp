@@ -1,4 +1,13 @@
-﻿#include "pch.h"
+﻿//
+// sock_thread.cpp
+// ~~~~~~~~~~~~~~  
+// 
+// Copyright (C) 2024  Bee Beans Technologies Co.,Ltd.
+//
+// Released under the MIT License.
+// (See accompanying file LICENSE)
+//
+#include "pch.h"
 #include <stdio.h>
 #include <windows.h>
 #include <WinSock2.h>

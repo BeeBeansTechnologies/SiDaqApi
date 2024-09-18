@@ -1,3 +1,12 @@
+//
+// sidaq_framer.cpp
+// ~~~~~~~~~~~~~~  
+// 
+// Copyright (C) 2024  Bee Beans Technologies Co.,Ltd.
+//
+// Released under the MIT License.
+// (See accompanying file LICENSE)
+//
 #include "pch.h"
 #include <stdio.h>
 #include <stdlib.h>

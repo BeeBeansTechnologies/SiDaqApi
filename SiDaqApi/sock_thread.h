@@ -1,4 +1,13 @@
-﻿#pragma once
+﻿//
+// sock_thread.h
+// ~~~~~~~~~~~~~~  
+//
+// Copyright (C) 2024  Bee Beans Technologies Co.,Ltd.
+//
+// Released under the MIT License.
+// (See accompanying file LICENSE)
+//
+#pragma once
 
 #ifndef _sock_thread_h_
 #define _sock_thread_h_

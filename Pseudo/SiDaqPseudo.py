@@ -1,6 +1,13 @@
 # -*- coding:utf-8 -*-
 """
-SiDaq Pseudo Device
+
+SiDaqPseudo.py: SiDaq Pseudo Device
+~~~~~~~~~~~~~~  
+Copyright (C) 2024  Bee Beans Technologies Co.,Ltd.
+
+Released under the MIT License.
+(See accompanying file LICENSE)
+
 """
 
 

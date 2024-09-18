@@ -1,4 +1,13 @@
-﻿#pragma once
+﻿//
+// squeue.h
+// ~~~~~~~~~~~~~~  
+//
+// Copyright (C) 2024  Bee Beans Technologies Co.,Ltd.
+//
+// Released under the MIT License.
+// (See accompanying file LICENSE)
+//
+#pragma once
 #ifndef _SQUEUE_H_
 #define _SQUEUE_H_
 #include <windows.h>

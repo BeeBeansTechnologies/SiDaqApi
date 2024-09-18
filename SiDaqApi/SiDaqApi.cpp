@@ -1,4 +1,15 @@
-﻿// SiDaqApi.cpp : Defines the initialization routines for the DLL.
+﻿//
+// SiDaqApi.cpp
+// ~~~~~~~~~~~~~~  
+// 
+// Copyright (C) 2024  Bee Beans Technologies Co.,Ltd.
+//
+// Released under the MIT License.
+// (See accompanying file LICENSE)
+//
+
+// Defines the initialization routines for the DLL.
+
 
 #include "pch.h"
 #include "framework.h"

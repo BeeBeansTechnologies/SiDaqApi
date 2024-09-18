@@ -4,6 +4,7 @@ Read this in other languages: [English](README.md), [日本語](README.ja.md)
 
 ## Overview
 This is an API for communicating with SiTCP devices in Windows applications.
+* License: MIT License
 
 ### Functions
 * DAQ for SiTCP devices
@@ -76,7 +77,7 @@ The current API internal state can be obtained with `SiDaqGetStatus`.
 	* IP address
 	* TCP port number
 	* UDP port number
-	* not_wsa_cleanup(TRUE : Do not run WSAStartup() on this API.)
+	* not_wsa_cleanup(TRUE: Do not run WSAStartup() on this API.)
 * Return value
 	* Pointer to the manager struct
 * Remarks

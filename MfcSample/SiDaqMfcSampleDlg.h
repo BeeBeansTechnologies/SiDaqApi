@@ -1,6 +1,15 @@
-﻿
-// SiDaqMfcSampleDlg.h : header file
+﻿//
+// SiDaqMfcSampleDlg.h
+// ~~~~~~~~~~~~~~  
 //
+// Copyright (C) 2024  Bee Beans Technologies Co.,Ltd.
+//
+// Released under the MIT License.
+// (See accompanying file LICENSE)
+//
+
+// header file
+
 #include "SiDaqApi.h"
 #pragma once
 

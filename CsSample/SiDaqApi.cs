@@ -1,4 +1,13 @@
-﻿using System;
+﻿//
+// SiDaqApi.cs
+// ~~~~~~~~~~~~~~  
+// 
+// Copyright (C) 2024  Bee Beans Technologies Co.,Ltd.
+//
+// Released under the MIT License.
+// (See accompanying file LICENSE)
+//
+using System;
 using System.Runtime.InteropServices;
 public enum SiDaqStatus
 {

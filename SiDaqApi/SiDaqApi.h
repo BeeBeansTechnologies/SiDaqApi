@@ -1,4 +1,14 @@
-﻿// SiDaqApi.h : main header file for the SiDaqApi DLL
+﻿//
+// SiDaqApi.h
+// ~~~~~~~~~~~~~~  
+//
+// Copyright (C) 2024  Bee Beans Technologies Co.,Ltd.
+//
+// Released under the MIT License.
+// (See accompanying file LICENSE)
+//
+
+// main header file for the SiDaqApi DLL
 
 #pragma once
 

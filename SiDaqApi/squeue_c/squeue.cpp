@@ -1,4 +1,14 @@
-﻿/*
+﻿//
+// squeue.cpp
+// ~~~~~~~~~~~~~~  
+// 
+// Copyright (C) 2024  Bee Beans Technologies Co.,Ltd.
+//
+// Released under the MIT License.
+// (See accompanying file LICENSE)
+//
+
+/*
 C Simple Link List
 */
 //#ifdef ＿MSC＿VER
